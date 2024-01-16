@@ -1,6 +1,6 @@
 package com.domain.eps.org.domaineps.models;
 
-import jakarta.persistence.*;
+import jakarta.persistence.*;//3.0
 
 @Entity
 public class EpsDetail {

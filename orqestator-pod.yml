@@ -1,8 +1,0 @@
-apiVersion: v1
-kind: Pod
-metadata:
-  name: orqestator-pod
-spec:
-  containers:
-  - name: orqestator-container
-    image: orqestator:v3
